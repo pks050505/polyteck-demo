@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16909439193",
+    "project_id": "polytechnic-b89d6",
+    "storage_bucket": "polytechnic-b89d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16909439193:android:a715f47bed2135af672ec8",
+        "android_client_info": {
+          "package_name": "com.pks.polytech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16909439193-hqmcnqvpi6oiv33dtj50q55hivb3f07n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiR8crDuQG_RnFjXgPQTRlqXX19c7AVcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16909439193-hqmcnqvpi6oiv33dtj50q55hivb3f07n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
